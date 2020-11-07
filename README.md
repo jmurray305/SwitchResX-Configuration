@@ -14,7 +14,7 @@ SwitchResX is used to take control of any screen connected to the Mac. No matter
 Lanuch SwitchResX from System Preferences, select the external monitor from the list on the left.
 Select the 'Custom Resolutions' tab.
 Add a new custom resolution be clicking the + symbol at the bottom of the window.
-Adjust the settings to match the appropriate PNG provided in this gist.
+Adjust the settings to match the appropriate PNG provided SwitchResX-Config.jng
 Press 'Ok'
 Close SwitchResX and save when prompted.
 Restart your Mac.
